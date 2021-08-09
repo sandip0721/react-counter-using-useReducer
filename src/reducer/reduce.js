@@ -4,7 +4,7 @@
       return counter  +1;
     }
     case 'decrement':{
-      return counter -10;
+      return counter -1;
     }
     case 'reset':{
       return 0;
